@@ -10,14 +10,15 @@ h2, h3
 
 .container
 {
-	width: 30%;
+	width: 1140px;
 	display: inline-block;
+	
 }
 
 
 .container img
 {
 	display: block;
-	width: 100%;
+	width: 30%;
 
 }
